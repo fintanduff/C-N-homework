@@ -5,4 +5,3 @@ def every_nth(n, p):
     
     start = p // 2  # First number in range
     return list(range(start, p + 1, n))  # Generate list using range()
-# 
